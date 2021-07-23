@@ -87,7 +87,9 @@ exclude:
 # ==============================================================================
 # Automated via GH actions, edits will be overwritten
 
-repo: jekyll-pronto/jekyll-pronto
+repo: trickypr/example
+
+
 
 
 
